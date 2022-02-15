@@ -1,0 +1,22 @@
+html {
+  background: url("https://media.istockphoto.com/photos/space-background-wiht-stars-stock-image-picture-id1287901429?b=1&k=20&m=1287901429&s=170667a&w=0&h=RH6-KPEq-WYftCxoKnQixr8SOwyHlWr8F8EfloDmTxg=") no-repeat fixed center;
+  background-size: cover;
+}
+
+body {
+   background: rgba(255, 255, 255, 0.7);
+   margin: 25px auto;
+   padding: 25px 100px;
+   border-radius: 25px;
+   width: 500px;
+}
+
+button {
+  margin: 25px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  text-decoration: active;
+}
